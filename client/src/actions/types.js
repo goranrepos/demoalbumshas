@@ -1,0 +1,13 @@
+export const CLEAR_ALBUMS = 'CLEAR_ALBUMS';
+export const GET_ALBUMS = 'GET_ALBUMS';
+export const ALBUMS_ERROR = 'ALBUM_ERROR';
+export const CLEAR_ALBUM = 'CLEAR_ALBUM';
+export const GET_ALBUM = 'GET_ALBUM';
+export const UPDATE_ALBUM = 'UPDATE_ALBUM';
+export const ALBUM_ERROR = 'ALBUM_ERROR';
+export const CLEAR_ARTISTS = 'CLEAR_ARTISTS';
+export const GET_ARTISTS = 'GET_ARTISTS';
+export const ARTISTS_ERROR = 'ARTIST_ERROR';
+export const CLEAR_ARTIST = 'CLEAR_ARTIST';
+export const ARTIST_ERROR = 'ARTIST_ERROR';
+export const GET_ARTIST = 'GET_ARTIST';

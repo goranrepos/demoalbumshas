@@ -1,0 +1,32 @@
+table,
+.table {
+  width: 100%;
+  border: 1px solid #eeeeee;
+}
+
+thead,
+.table-header {
+  width: 100%;
+  background: #000;
+  padding: 18px 0;
+  color: #fff;
+}
+tbody,
+.table-headebody {
+  width: 100%;
+  background: #eee;
+
+  padding: 18px 0;
+}
+
+th,
+.header__item {
+  text-transform: uppercase;
+}
+
+th,
+td,
+.table-data,
+.header__item {
+  text-align: center;
+}
